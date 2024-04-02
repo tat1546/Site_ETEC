@@ -1,0 +1,220 @@
+.navbar-custom .nav-link {
+    color: black;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.bg-imagem {
+    background-image: url('../images/etec.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+.titulo {
+    color:#C0C0C0;
+    margin-left: 100px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 200px;
+}
+
+.subtitulo {
+    color:white;
+    margin-left: 100px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 20px;
+}
+.btn-esquerda {
+    color: rgb(255, 255, 255);
+    text-align: left;
+    margin-top: 20px;
+    margin-right: 650px;
+    font-weight: bold;
+}
+
+.search-form {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.btn-with-icon {
+    background-image: url('../images/PESQUISAR.png');
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: center left;
+    padding-left: 30px;
+}
+.gray-text {
+    color: gray;
+    font-weight: normal;
+    font-size: 20px; 
+}
+.text-justify {
+    text-align: justify;
+    margin-left: 100px;
+    
+}
+.Descubra {
+    text-align: justify;
+    margin-left: 100px;
+    padding-top: 100px;
+    font-size: 35px; 
+    font-weight: bold;
+    
+}
+.text-justify2 {
+    text-align: justify;
+    margin-right: 80px;
+    
+}
+.Descubra2 {
+    text-align: justify;
+    margin-right: 80px;
+    padding-top: 100px;
+    font-size: 35px; 
+    font-weight: bold;
+    
+}
+.btn-infra {
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+    margin-right: 50px;
+    font-weight: bold;
+}
+.Descubra3 {
+    text-align: center;
+    margin-right: 80px;
+    padding-top: 150px;
+    font-size: 35px; 
+    font-weight: bold;
+}
+
+.cartao {
+    margin-left: 80px;
+    padding-top: 150px;
+}
+.footer-custom {
+    background-color: #f8f9fa;
+    color: black;
+}
+/*  ADMINISTRAÇÃO */
+.bg-imagem-adm {
+    background-image: url('../images/adm.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+.Sobre{
+    text-align: justify;
+    margin-left: 100px;
+    padding-top: 100px;
+    font-size: 35px; 
+    font-weight: bold;
+}
+/*  CONTABILIDADE */
+.bg-imagem-con {
+    background-image: url('../images/conta.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+/*  DESENVOLVIMENTO DE SISTEMAS */
+.bg-imagem-sis {
+    background-image: url('../images/sistema.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+/*  LOGÍSTICA */
+.bg-imagem-log {
+    background-image: url('../images/log.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+/*  RECURSOS HUMANOS */
+.bg-imagem-hum {
+    background-image: url('../images/recursos.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+/* SERVIÇOS JURÍDICOS */
+
+.bg-imagem-jud {
+    background-image: url('../images/juridicos.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+/* HISTÓRIA */
+.bg-imagem-his {
+    background-image: url('../images/historia.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+.text-justify1 {
+    text-align: justify;
+}
+
+/* INFRAESTRUTURA */
+.bg-imagem-inf {
+    background-image: url('../images/infra.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+/* APM */
+.bg-imagem-apm {
+    background-image: url('../images/apm.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+table {
+    border-collapse: collapse;
+}
+td {
+    border: none;
+    padding: 10px;
+}
+.table-centered {
+    margin: 0 auto;
+}
+/* COORDENAÇÃO DE CURSOS*/
+.bg-imagem-cur {
+    background-image: url('../images/cursos.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+/* DIREÇÃO*/
+.bg-imagem-dir {
+    background-image: url('../images/direcao.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+/* OPORTUNIDADES*/
+.bg-imagem-opor {
+    background-image: url('../images/oportunidades.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+/* VESTIBULINHO*/
+.bg-imagem-vest {
+    background-image: url('../images/vestibulinho.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
