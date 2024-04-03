@@ -104,7 +104,7 @@
                         <p class="text-justify gray-text">Como funcionam as organizações, desde empresas privadas até ONGs, passando por órgãos públicos, comércio e indústria. O estudante vai precisar de conhecimentos de língua portuguesa, matemática, história e geografia para compreender os principais assuntos do curso, como história da administração, evolução das organizações ao longo do tempo, contabilidade, leis que regulam o funcionamento das empresas e redação de documentos.
                         <p class="text-justify gray-text">O aluno vai aprender ainda a analisar as chances de um negócio ou produto ser bem-sucedido e o comportamento do consumidor. Estudará também técnicas de atendimento ao cliente, empreendedorismo (iniciativas para realizar novos negócios) e como uma organização planeja alcançar seus objetivos e define suas metas para o futuro.</P>
                         <p class="text-justify gray-text">O candidato que ingressar no curso técnico de Administração, na modalidade AMS, poderá prosseguir os estudos em uma Fatec no curso superior de tecnologia em Processos Gerenciais.</p>
-                        <button type="button" class="btn btn-danger btn-infra">ENTRE EM CONTATO</button>
+                        <a href="{{ route('contato') }}" class="btn btn-danger btn-infra">ENTRE EM CONTATO</a>
                     </div>
                      <div class="col" style="padding-top: 100px;">
                         <img src="{{ asset('images/amd1.jpg') }}" alt="Descrição da Imagem" class="img-fluid rounded" width="400" padding-top: 100px;>
