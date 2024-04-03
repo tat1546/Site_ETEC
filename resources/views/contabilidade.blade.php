@@ -103,7 +103,7 @@
                         <p class="text-justify Sobre"> Sobre </p>
                         <p class="text-justify gray-text">Matemática e língua portuguesa são disciplinas importantes para entender a contabilidade, que é a ciência responsável por organizar as contas de uma empresa e registrar seus bens patrimoniais (como prédios, veículos e máquinas, entre outros). Além da matemática básica, que serve como ferramenta para calcular o lucro ou o prejuízo de uma empresa, o estudante aprenderá matemática financeira, utilizada para operações de financiamento e cálculo de taxas de juros, por exemplo. O aluno também vai conhecer quais são as regras da contabilidade e todas as leis que estabelecem o que as empresas podem fazer e quais impostos devem pagar. Na área de Informática, o estudante vai aprender a fazer planilhas e a usar programas de computador específicos para a contabilidade.</p>
                         
-                        <button type="button" class="btn btn-danger btn-infra">ENTRE EM CONTATO</button>
+                        <a href="{{ route('contato') }}" class="btn btn-danger btn-infra">ENTRE EM CONTATO</a>
                     </div>
                      <div class="col" style="padding-top: 100px;">
                         <img src="{{ asset('images/conta2.jpg') }}" alt="Descrição da Imagem" class="img-fluid rounded" width="400" padding-top: 100px;>
