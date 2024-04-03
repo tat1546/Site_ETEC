@@ -103,7 +103,7 @@
                         <p class="text-justify Sobre"> Sobre </p>
                         <p class="text-justify gray-text">Anuncia vagas de emprego, descrevendo as atribuições do cargo a ser preenchido; aplica testes em processos seletivos; realiza cálculos para determinar os valores que serão descontados no salário dos funcionários, como o Imposto de Renda e a contribuição ao INSS, além de porcentagem referente a benefícios, como vale-transporte, plano de saúde etc.; insere informações no sistema para a geração de demonstrativos de pagamentos (holerites ou contracheques); cuida da documentação necessária para aposentadoria, contratação e demissão de profissionais, inclusive preenchendo informações na carteira de trabalho; organiza e arquiva documentos do setor; registra e controla período de férias e afastamento de funcionários; e auxilia no treinamento e capacitação dos empregados.</p>
                         
-                        <button type="button" class="btn btn-danger btn-infra">ENTRE EM CONTATO</button>
+                       <a href="{{ route('contato') }}" class="btn btn-danger btn-infra">ENTRE EM CONTATO</a>
                     </div>
                      <div class="col" style="padding-top: 100px;">
                         <img src="{{ asset('images/recursos3.jpg') }}" alt="Descrição da Imagem" class="img-fluid rounded" width="400" padding-top: 100px;>
