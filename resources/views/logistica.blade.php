@@ -105,7 +105,7 @@
                         <p class="text-justify gray-text">O estudante vai aprender também como se deve movimentar as cargas e os produtos dentro de um estoque para decidir se utilizará, por exemplo, um carrinho ou uma empilhadeira, e como se deve armazenar cada tipo de produto e por quanto tempo. Vai estudar ainda sobre a entrega das mercadorias compradas pelos clientes: como organizar a carga para o transporte, qual a embalagem mais adequada (em caixas de papelão ou madeira, em páletes ou contêineres), qual é o tipo de transporte mais adequado para o produto e para o cliente (caminhões, embarcações, trem ou avião), e quais são as principais rotas que podem ser utilizadas. Além disso, o estudante aprenderá sobre os custos envolvidos em cada uma das atividades.</p>
                         <p class="text-justify gray-text">O candidato que ingressar no curso técnico de Logística, na modalidade AMS, poderá prosseguir os estudos em uma Fatec no curso superior de tecnologia em Logística.</p>
 
-                        <button type="button" class="btn btn-danger btn-infra">ENTRE EM CONTATO</button>
+                        <a href="{{ route('contato') }}" class="btn btn-danger btn-infra">ENTRE EM CONTATO</a>
                     </div>
                      <div class="col" style="padding-top: 100px;">
                         <img src="{{ asset('images/log3.png') }}" alt="Descrição da Imagem" class="img-fluid rounded" width="400" padding-top: 100px;>
