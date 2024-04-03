@@ -107,7 +107,7 @@
 
                         <p class="text-justify gray-text">Além disso, na turno tarde o curso de desenvolvimento de sistemas possuí parceria com a IBM, assim surgindo o DS-AMS que permite que, em um período de cinco anos, o estudante conclua os ensinos nos níveis Médio, Técnico (ETEC) e Superior (FATEC). </p>
                         
-                        <button type="button" class="btn btn-danger btn-infra">ENTRE EM CONTATO</button>
+                        <a href="{{ route('contato') }}" class="btn btn-danger btn-infra">ENTRE EM CONTATO</a>
                     </div>
                      <div class="col" style="padding-top: 100px;">
                         <img src="{{ asset('images/sistema2.jpg') }}" alt="Descrição da Imagem" class="img-fluid rounded" width="400" padding-top: 100px;>
